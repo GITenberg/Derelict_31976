@@ -1,0 +1,50 @@
+_repo: Derelict_31976
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Alexander, Ed
+    - Emsh, Ed
+    - Willer
+    - Emshwiller, Edmund A.
+    - Emsh
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nourse, Alan Edward
+    aliases:
+    - Nourse, Alan E. (Alan Edward)
+    - Edwards, Al
+    birthdate: 1928
+    deathdate: 1992
+    gutenberg_agent_id: '25579'
+    url: http://www.gutenberg.org/2009/agents/25579
+    wikipedia: http://en.wikipedia.org/wiki/Alan_E._Nourse
+description: Take an unforgettable celestial voyage with sci-fi luminary Alan E. Nourse
+  in the classic short story ""Derelict."" When an intrepid crew of skywatchers spots
+  a mysterious star ship, they're initially elated by the once-in-a-lifetime find.
+  But their discovery brings with it a slew of unanswered questions -- and potentially
+  deadly consequences.
+gutenberg_issued: '2010-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31976'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Derelict
+url: http://www.gutenberg.org/ebooks/31976
